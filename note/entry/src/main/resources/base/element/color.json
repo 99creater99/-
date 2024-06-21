@@ -1,0 +1,36 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "color_light_gray",
+      "value": "#dddddd"
+    },
+    {
+      "name": "color_gray_999",
+      "value": "#999"
+    },
+    {
+      "name": "color_gray_666",
+      "value": "#666"
+    },
+    {
+      "name": "color_line",
+      "value": "#e1e1e1"
+    },
+    {
+      "name": "color_white",
+      "value": "#fff"
+    },
+    {
+      "name": "color_black",
+      "value": "#000"
+    },
+    {
+      "name": "mini_text_font_color",
+      "value": "#E6FFFFFF"
+    }
+  ]
+}
